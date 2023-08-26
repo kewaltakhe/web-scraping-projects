@@ -1,8 +1,8 @@
 <?php
     $servername = "localhost";
-    $dbuser = "raspoi";
-    $dbpass = "poisql";
-    $dbname = "basicsem";
+    $dbuser = "username";
+    $dbpass = "password";
+    $dbname = "database_name";
     $conn = new mysqli($servername, $dbuser, $dbpass, $dbname);
 
     echo "<h2>categories</h2><br>";
