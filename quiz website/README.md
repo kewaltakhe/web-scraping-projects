@@ -1,4 +1,3 @@
-![alt text](https://github.com/kewaltakhe/web-scraping-projects/blob/main/quiz%20website/example%20images/i1.png)
 # A Quiz website with questions scraped from gk website.  
 This is a simple quiz website. The questions are scraped from https://www.gktoday.in. This project is an application of web scraping on web development. 
 
@@ -11,4 +10,16 @@ This is a simple quiz website. The questions are scraped from https://www.gktoda
 
 ## screenshots
 questions collected and stored into Database.
-![Screenshot of My App](example%20images/desc_question_bank.png)
+![Screenshot](example%20images/desc_question_bank.png)
+
+website pages<br>
+index_page
+![Screenshot](example%20images/index_page.png)
+<br>
+quiz pages
+![Screenshot](example%20images/i1.png)
+<br>
+![Screenshot](example%20images/i2.png)
+<br>
+![Screenshot](example%20images/i3.png)
+
