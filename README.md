@@ -11,7 +11,7 @@ Web scraping is the process of collecting data that are displayed in a website. 
 - collecting the information
 <br>
 Libraries such as python BeautifulSoup and selenium can be used to automate browser and parse the HTML effectively.
-<br>
+<br><br>
 The data collected can be stored in database, json, CSV etc. We can apply data processing and data analysis on the collected data.
-<br>
+<br><br>
 Since website structure can change from time to time, web scraping may require monitoring and tweaking according to the needs.
